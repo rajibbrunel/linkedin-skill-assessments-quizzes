@@ -584,6 +584,8 @@ Explanation: THe difference between 2 and 3 is that LEFT JOIN will return 1 row 
 - [ ] `SQLEXCEPTION` routine
 - [x] `NOT FOUND` handler
 
+REF : https://www.mysqltutorial.org/mysql-cursor/
+
 #### Q64. Which type of backup includes all the changes made to the data since the last full backup was performed?
 
 - [ ] snapshot
