@@ -576,7 +576,7 @@ Explanation: THe difference between 2 and 3 is that LEFT JOIN will return 1 row 
 - [ ] `DELETE DISTINCT`
 - [x] `DELETE JOIN`
 - [ ] `DELETE WITH`
-
+ref: https://www.mysqltutorial.org/mysql-delete-duplicate-rows/
 #### Q63. When working with MySQL cursor, what must you also declare?
 
 - [ ] `DEFAULT` value
